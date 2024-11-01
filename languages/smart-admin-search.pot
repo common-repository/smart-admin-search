@@ -1,0 +1,264 @@
+# Copyright (C) 2023 Andrea Porotti
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Admin Search 1.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/smart-admin-search\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-15T15:02:22+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: smart-admin-search\n"
+
+#. Plugin Name of the plugin
+msgid "Smart Admin Search"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/andreaporotti/smart-admin-search"
+msgstr ""
+
+#. Description of the plugin
+msgid "A search engine to quickly find elements and contents inside the WordPress dashboard."
+msgstr ""
+
+#. Author of the plugin
+msgid "Andrea Porotti"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.andreaporotti.it/"
+msgstr ""
+
+#: admin/class-smart-admin-search-admin.php:136
+msgid "Hello, how may I help you?"
+msgstr ""
+
+#: admin/class-smart-admin-search-admin.php:137
+msgid "Sorry, it seems like you are not allowed to edit or view this item."
+msgstr ""
+
+#. translators: %s is the keyboard shortcut to open the search window
+#: admin/class-smart-admin-search-admin.php:160
+msgid "Search in the WordPress dashboard (%s)"
+msgstr ""
+
+#: admin/class-smart-admin-search-admin.php:372
+msgid "no keyboard shortcut set"
+msgstr ""
+
+#: admin/class-smart-admin-search-admin.php:395
+msgid "Settings"
+msgstr ""
+
+#. translators: %1$s is the plugin name, %2$s is the settings page url.
+#: admin/class-smart-admin-search-admin.php:416
+msgid "Thank you for using %1$s, I hope you will like it! Please take a look at the <a href=\"%2$s\">settings</a> page to choose a keyboard shortcut or configure the other plugin options."
+msgstr ""
+
+#. translators: %s is the plugin name
+#: admin/class-smart-admin-search-options.php:73
+msgid "%s Settings"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:140
+msgid "Successfully deleted temporary data of the current user."
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:167
+msgid "Successfully deleted temporary data of all users."
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:183
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:209
+msgid "Open the search box"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:228
+msgid "Search functions"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:254
+msgid "Select the functions to run on each search"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:273
+msgid "Appearance"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:299
+msgid "Choose the layout of the search link on the admin bar"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:329
+msgid "Show destination address below each result"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:348
+msgid "Plugin uninstall"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:374
+msgid "Delete all plugin data"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:393
+msgid "Plugin maintenance"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:404
+msgid "Delete temporary data of the current user"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:416
+msgid "Delete temporary data of all users"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:437
+msgid "Configure keyboard shortcuts to access plugin features."
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:472
+msgid "Clear"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:475
+msgid "Click on the textbox and then press the keys that you will use to open the search box. Click the Clear button to empty the textbox."
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:477
+msgid "The current shortcut is:"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:496
+msgid "Configure the available search functions."
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:582
+msgid "Set the plugin appearance."
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:617
+msgid "Text and icon"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:625
+msgid "Icon"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:628
+msgid "Changes size of the link used to open the search box. Choose \"icon\" to have a smaller link."
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:664
+#: admin/class-smart-admin-search-options.php:721
+msgid "enabled"
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:666
+msgid "Enable this option to display the address a result will redirect you to after selection."
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:685
+msgid "These settings are applied when you uninstall the plugin."
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:723
+msgid "Please note: enabling this option all data and settings will be PERMANENTLY DELETED when you uninstall the plugin."
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:742
+msgid "Tools for the plugin maintenance."
+msgstr ""
+
+#: admin/class-smart-admin-search-options.php:763
+#: admin/class-smart-admin-search-options.php:784
+msgid "Delete data"
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:114
+msgid "Admin Menu"
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:115
+msgid "Search items in the admin menu."
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:170
+#: includes/class-smart-admin-search-functions.php:226
+msgid "Admin menu item."
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:288
+msgid "Posts"
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:289
+msgid "Search posts."
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:324
+#: includes/class-smart-admin-search-functions.php:403
+#: includes/class-smart-admin-search-functions.php:536
+#: includes/class-smart-admin-search-functions.php:619
+msgid "(no title)"
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:343
+msgid "Post."
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:367
+msgid "Pages"
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:368
+msgid "Search pages."
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:422
+msgid "Page."
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:446
+msgid "Users"
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:447
+msgid "Search users."
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:472
+msgid "Username:"
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:480
+msgid "User."
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:503
+msgid "Media"
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:504
+msgid "Search media."
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:545
+msgid "Media."
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:569
+msgid "Custom post types"
+msgstr ""
+
+#: includes/class-smart-admin-search-functions.php:570
+msgid "Search custom post type content."
+msgstr ""
